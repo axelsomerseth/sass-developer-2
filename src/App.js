@@ -1,9 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
 import MarkdownPlaceholder from './Placeholder.js';
-import './App.scss';
 import Editor from './Editor';
 import Preview from './Preview';
+import './App.scss';
 
 class App extends React.Component {
 	constructor(props) {
