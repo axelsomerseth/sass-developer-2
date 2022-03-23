@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# SASS Developer 2
+> A developer who is able to use SASS/SCSS variables and mix-ins effectively in a web application.
+
+## Master the following skills:
+1. Use variables to reuse constants like colors and fonts.
+2. Use mixins to build groups of CSS declarations for reuse.<br>
+
+------------------------------------------------------------
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
