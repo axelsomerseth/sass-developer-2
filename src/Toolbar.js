@@ -7,9 +7,9 @@ import {
 import { faFreeCodeCamp } from "@fortawesome/free-brands-svg-icons";
 
 class Toolbar extends React.Component {
-  constructor(props) {
-    super(props);
-  }
+  // constructor(props) {
+  //   super(props);
+  // }
   render() {
     const { name, isExpanded, onChange } = this.props;
     const iconClasses = isExpanded
